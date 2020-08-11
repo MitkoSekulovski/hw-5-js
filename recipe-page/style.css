@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#name{
+    color: #009FD1;   
+}
+#num{
+    color:#00D1CA;
+}
+#ingredients{
+    color:#00D192;
+}
+#myTable{
+    
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 50px 0 0 50px;
+}
+table td{
+    border-bottom: 1px solid #ddd;
+    border-spacing: 0;
+    padding: 10px;
+}
+.left{
+    text-align: left;
+    color: #009FD1;
+}
+.right{
+    text-align: right;
+    color: #00D1CA;
+}
+#name2, #nameRecipe{
+    font-size: 25px;
+}
+#nameRecipe{
+    font-weight: 600;
+}
